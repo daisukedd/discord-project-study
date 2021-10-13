@@ -1,5 +1,5 @@
 {
-  "name": "Discord.Js",
+  "name": "discord-project-study",
   "version": "1.0.0",
   "description": "Aprendendo a usar o discord.js",
   "main": "index.js",
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/daisukedd/discord-project-study.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -17,7 +18,8 @@
   },
   "homepage": "https://github.com/daisukedd/discord-project-study#readme",
   "dependencies": {
-    "discord.js": "^13.2.0"
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {
     "eslint": "^8.0.0"
