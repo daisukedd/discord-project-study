@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/daisukedd/discord-project-study/issues"
   },
-  "homepage": "https://github.com/daisukedd/discord-project-study#readme"
+  "homepage": "https://github.com/daisukedd/discord-project-study#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
 }
